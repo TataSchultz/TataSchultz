@@ -10,8 +10,8 @@ Atualmente a vida tem sido: estudar, estudar e estudar... E quanta coisa ainda t
 
 <div>
 <a href="https://www.linkedin.com/in/tarcila-schultz/">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TataSchultz&show_icons=true&theme=tokyonight&include_all_commits=true")/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TataSchultz&layout=compact&langs_count=16&theme=tokyonight"/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api?username=TataSchultz&show_icons=true&theme=tokyonight&include_all_commits=true")/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TataSchultz&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br> 
