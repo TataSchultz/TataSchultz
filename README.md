@@ -6,7 +6,7 @@ Atualmente a vida tem sido: estudar, estudar e estudar... E quanta coisa ainda t
 
 
 
-- 🌱 Estudando: JavaScript, HTML5, CSS, Figma, Firebase 
+- 🌱 Estudando: JavaScript, HTML5, CSS, Figma, Firebase, Node.js 
 
 <div>
 <a href="https://www.linkedin.com/in/tarcila-schultz/">
