@@ -1,6 +1,6 @@
 ### Olá, meu nome é Tarcila, mas pode me chamar de Tata! 😊
 
-Sou estudante de Desenvolvimento Web no bootcamp da @Laboratória, uma organização focada na autoaprendizagem que impulsiona as pessoas no desenvolvimento de habilidades para trabalhar e crescer na era digital. 
+Finalizei recentemente o bootcamp da @Laboratória, uma organização focada na autoaprendizagem que impulsiona as pessoas no desenvolvimento de habilidades para trabalhar e crescer na era digital. 
 
 Atualmente a vida tem sido: estudar, estudar e estudar... E quanta coisa ainda tenho para aprender!
 
